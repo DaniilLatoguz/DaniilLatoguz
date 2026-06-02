@@ -1,17 +1,19 @@
 # Hi there 👋 I'm Daniil
 
-I am an aspiring Python Backend Developer focused on building clean, efficient, and scalable web applications.
+Python Backend Developer with practical experience building personal backend projects using FastAPI and Python.
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Key Projects
+- **Calorie Tracking REST API:** Built with FastAPI, SQLAlchemy, and Pydantic.
+- **Asynchronous Telegram Bot:** Developed using AsyncIO, Aiogram, and SQLite.
+
+### 🛠️ Tech Stack & Focus
 - **Languages:** Python (Core, AsyncIO)
-- **Frameworks:** FastAPI, Pydantic, Aiogram
+- **Frameworks & Libraries:** FastAPI, Pydantic, Aiogram
 - **Databases & ORMs:** SQLAlchemy, SQLite
-- **Tools:** Git, GitHub
+- **CS Fundamentals:** Actively studying algorithms, data structures, and software engineering best practices.
 
-### 🚀 Current Focus & Projects
-- **Asynchronous Telegram Bot:** A bot using Aiogram and AsyncIO for seamless event processing.
-- **REST APIs:** Designing structured web services with FastAPI and SQLAlchemy.
-- Deeply diving into Computer Science fundamentals, exploring algorithm performance, and software engineering best practices.
+### 💼 Career Goals
+Open to **Trainee**, **Intern**, and **Junior Python Backend Developer** opportunities.
 
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/daniil-latoguz](https://www.linkedin.com/in/daniil-latoguz)
