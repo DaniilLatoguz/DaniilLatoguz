@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Daniil
 
-<!--
-**DaniilLatoguz/DaniilLatoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Python Backend Developer focused on building clean, efficient, and scalable web applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python (Core, AsyncIO)
+- **Frameworks:** FastAPI, Pydantic, Aiogram
+- **Databases & ORMs:** SQLAlchemy, SQLite
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus & Projects
+- **Asynchronous Telegram Bot:** A bot using Aiogram and AsyncIO for seamless event processing.
+- **REST APIs:** Designing structured web services with FastAPI and SQLAlchemy.
+- Deeply diving into Computer Science fundamentals, exploring algorithm performance, and software engineering best practices.
+
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/daniil-latoguz](https://www.linkedin.com/in/daniil-latoguz)
+
