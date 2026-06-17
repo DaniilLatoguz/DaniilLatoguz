@@ -4,7 +4,7 @@ Python Backend Developer with practical experience building personal backend pro
 
 ### 🚀 Key Projects
 - **Calorie Tracking REST API:** Built with FastAPI, SQLAlchemy, and Pydantic.
-- **Asynchronous Telegram Bot:** Developed using AsyncIO, Aiogram, and SQLite.
+- **Asynchronous Telegram Bot:** Developed using asyncio, Aiogram, and SQLite.
 
 ### 🛠️ Tech Stack & Focus
 - **Languages:** Python (Core, asyncio)
