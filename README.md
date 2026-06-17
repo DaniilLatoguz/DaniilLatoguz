@@ -7,7 +7,7 @@ Python Backend Developer with practical experience building personal backend pro
 - **Asynchronous Telegram Bot:** Developed using AsyncIO, Aiogram, and SQLite.
 
 ### 🛠️ Tech Stack & Focus
-- **Languages:** Python (Core, AsyncIO)
+- **Languages:** Python (Core, asyncio)
 - **Frameworks & Libraries:** FastAPI, Pydantic, Aiogram
 - **Databases & ORMs:** SQLAlchemy, SQLite
 - **CS Fundamentals:** Actively studying algorithms, data structures, and software engineering best practices.
